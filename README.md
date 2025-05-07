@@ -1,3 +1,57 @@
+# 🔐 React Firebase Auth App
+
+A simple and clean login/signup interface built using **React** and **Firebase Authentication**. This project demonstrates how to authenticate users using email and password through Firebase.
+
+---
+
+## 🚀 Features
+
+- 🔐 Login and Signup with Firebase Auth
+- ✅ Form validation with error handling
+- 🎨 Responsive and centered layout
+- 🔄 Dynamic switching between Login and Signup
+- 📦 Firebase Hosting ready
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: React, CSS
+- **Backend**: Firebase Authentication
+- **Hosting**: Firebase Hosting
+
+---
+
+## 📸 Screenshots
+
+| Login Page | Signup Page |
+|------------|-------------|
+| *(add screenshots here if available)* | *(add screenshots here if available)* |
+![Screenshot (164)](https://github.com/user-attachments/assets/912e7653-710e-4850-b2ae-1cea2131c409)
+![Screenshot (165)](https://github.com/user-attachments/assets/c196cc77-0c1c-40c7-b7a6-86ba2866bbf4)
+
+
+
+---
+
+## 📁 Folder Structure
+
+/src
+├── /Assets
+├── /Components
+│ └── LoginSignup.jsx
+├── /firebase
+│ └── firebase.js
+├── App.js
+└── index.js
+
+
+---
+🙋‍♂️ Author
+Chandan Kalappanavar
+📫 LinkedIn
+🌐 GitHub
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
